@@ -1,0 +1,36 @@
+{
+    "dayId": "b893e066-8eb6-11e9-bc42-526af7764f64",
+    "date": 1560525188,
+    "start_time_frame": 32400000,
+    "end_time_frame": 75600000,
+    "events": [
+        {
+            "id": "4e957800-85e7-4595-97e9-13da224582db4",
+            "title": "Spring Planning",
+            "desc": "The idea is to estimate our tasks",
+            "start_time": 9000000,
+            "end_time": 16200000
+        },
+        {
+            "id": "45b78647-93e1-4546-86ea-214187bcaa8c",
+            "title": "Interview with Manuel",
+            "desc": "Meet the Team",
+            "start_time": 39600000,
+            "end_time": 43200000
+        },
+        {
+            "id": "a74e41dc-7831-4b5e-b86b-c6d9e59820d3",
+            "title": "Code Challenge!",
+            "desc": "Hands on!",
+            "start_time": 23400000,
+            "end_time": 36000000
+        },
+        {
+            "id": "3g957800-85e7-4595-97e9-1daf2458edb4",
+            "title": "Beer Time!",
+            "desc": "who needs a reason!",
+            "start_time": 28800000,
+            "end_time": 37800000
+        }
+    ]
+}
