@@ -1,5 +1,4 @@
-# Flexpay Code Challenge
-
+# Calendar Day
 
 # Getting started
 - Clone the repository
