@@ -39,7 +39,7 @@
     "express": "^4.16.2",
     "express-async-router": "^0.1.15",
     "lodash": "^4.17.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongoose": "^5.4.2",
     "morgan": "^1.9.1",
     "ramda": "^0.26.1",
