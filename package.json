@@ -40,7 +40,7 @@
     "express-async-router": "^0.1.15",
     "lodash": "^4.17.5",
     "moment": "^2.24.0",
-    "mongoose": "^5.4.2",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "ramda": "^0.26.1",
     "react": "^16.5.2",
